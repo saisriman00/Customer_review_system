@@ -24,8 +24,8 @@ Fill in after running:
 
 | Model    | Accuracy |   F1 |
 | -------- | -------: | ---: |
-| Baseline |     0.84 | 0.84 |
-| Improved |     0.88 | 0.88 |
+| Baseline |     0.72 | 0.78 |
+| Improved |     0.84 | 0.88 |
 
 ## Tech
 Python, pandas, scikit-learn, seaborn, matplotlib
